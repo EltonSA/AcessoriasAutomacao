@@ -110,4 +110,5 @@ class AcessoriasBoot:
         
 # Criar uma instância da classe AcessoriasBoot
 boot = AcessoriasBoot('Usuario', 'Senha')
+#boot = AcessoriasBoot('Usuario', 'Senha')
 boot.login()
